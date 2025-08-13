@@ -11,8 +11,6 @@
 A dynamic professional with 3+ years of experience in Data Science and Machine Learning, built upon a solid background in finance. I focus on developing clear, data-driven solutions and am proficient in Python, AI/ML frameworks, and cloud technologies. My experience in financial analysis allows me to connect technical projects to business outcomes, optimizing processes and supporting strategic decisions.
 
 - 🌍 Based in Tirana, Albania
-- 📫 Reach me at: [gskerja@gmail.com](mailto:gskerja@gmail.com)
-- 🔗 Connect: [LinkedIn](https://linkedin.com/in/gertian-skerja) | [GitHub](https://github.com/gerti1991)
 - 🌱 Currently learning: Advanced GenAI and System Design
 - 🎸 Fun fact: Guitar enthusiast and multilingual (Albanian native, English advanced, Italian intermediate, German basic)
 
